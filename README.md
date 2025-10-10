@@ -2,17 +2,17 @@
 
 **Angaben gemäß § 5 TMG**
 
-<AlpenCamperVan>
-<Sebastian>  
-<Straße und Hausnummer>  
-<PLZ Ort>  
+AlpenCamperVan
+Sebastian 
+Straße und Hausnummer 
+PLZ Ort
 Deutschland
 
 ---
 
 **Kontakt**
 
-Telefon: <deine Telefonnummer>  
+Telefon: deine Telefonnummer>  
 E-Mail: [info.alpencampervan@gmail.com](mailto:info.alpencampervan@gmail.com)  
 
 ---
