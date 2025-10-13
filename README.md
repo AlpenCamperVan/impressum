@@ -1,46 +1,26 @@
-**Angaben gemäß § 5 TMG**
+AlpenCamperVan  
+Live the Alpine Adventure
 
-AlpenCamperVan\
-Sebastian\
-Straße\
-PLZ Ort\
-Deutschland
 
----
+Links:  
+Instagram:  
+YouTube:  
 
-**Kontakt**
 
-Telefon: 12345678\
-E-Mail: [info.alpencampervan@gmail.com](mailto:info.alpencampervan@gmail.com)  
 
----
 
-**Umsatzsteuer-ID**
 
-Umsatzsteuer-Identifikationsnummer gemäß § 27 a Umsatzsteuergesetz:\
-**DE123456789**
 
-Gemäß § 19 UStG wird keine Umsatzsteuer ausgewiesen (Kleinunternehmerregelung).
 
----
 
-**Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV**
 
-Sebastian\
-Anschrift wie oben
 
----
 
-**Haftungsausschluss**
 
-Trotz sorgfältiger inhaltlicher Kontrolle übernehme ich keine Haftung für die Inhalte externer Links.  
-Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich.
 
----
 
-**Stand:** Oktober 2025
+
+
 
 
 [Impressum](https://github.com/AlpenCamperVan/Impressum/blob/ddd12371e0c7b746bc0f972adae0ec83bf05c3cb/Impressumlink.md)
-
-
