@@ -39,3 +39,8 @@ Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber veran
 ---
 
 **Stand:** Oktober 2025
+
+
+[Impressum](https://github.com/AlpenCamperVan/Impressum/blob/a20587fb4963e726ea96da021f952ebdbc4765af/Impressum%20Link)
+
+
