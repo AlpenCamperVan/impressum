@@ -3,14 +3,13 @@
 AlpenCamperVan\
 Sebastian\
 Straße\
-PLZ Ort\
+67112 Mutterstadt\
 Deutschland
 
 ---
 
 **Kontakt**
 
-Telefon: 12345678\
 E-Mail: [info.alpencampervan@gmail.com](mailto:info.alpencampervan@gmail.com)  
 
 ---
