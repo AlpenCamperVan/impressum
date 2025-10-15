@@ -46,7 +46,20 @@ Die Inhalte meiner Kanäle wurden mit größter Sorgfalt erstellt. Für die Rich
 ---
 
 **Bildrechte**\
-Die verwendeten Bilder, Grafiken und Fotos auf dieser Website unterliegen dem Urheberrecht. Sofern nicht anders gekennzeichnet, liegen die Bildrechte beim Betreiber der Website. Eine Verwendung ohne ausdrückliche Genehmigung ist nicht gestattet.
+
+
+YouTube
+
+Alle auf den Instagram- und YouTube-Kanälen von **AlpenCamperVan** veröffentlichten Bilder, Fotos und Videodateien sind urheberrechtlich geschützt und Eigentum vom Kanaleigentümer.
+
+Eine Verwendung, Vervielfältigung oder Weitergabe dieser Medien ohne ausdrückliche schriftliche Genehmigung ist **untersagt**.
+
+Für Anfragen zur Nutzung wenden Sie sich bitte an:  
+E-Mail: [info.alpencampervan@gmail.com](mailto:info.alpencampervan@gmail.com)  
+
+
+Die Nutzung ist nur nach vorheriger Absprache und gegen Entgelt gestattet.
+
 
 Bei Bildern Dritter werden die entsprechenden Urheber kenntlich gemacht bzw. die Nutzung erfolgt mit entsprechender Lizenz. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen Hinweis. Derartige Inhalte werden umgehend entfernt.
 
