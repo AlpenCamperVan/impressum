@@ -41,11 +41,11 @@ Deutschland
 Trotz sorgfältiger inhaltlicher Kontrolle übernehme ich keine Haftung für die Inhalte externer Links.
 Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich. Bei Bekanntwerden von Rechtsverletzungen werden solche Links umgehend entfernt.
 
-Die Inhalte meiner Kanäle wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte übernehme ich jedoch keine Gewähr.
+Alle Inhalte auf den Instagram- und YouTube-Kanälen von **AlpenCamperVan** wurden von mir mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte übernehme ich jedoch keine Gewähr.
 
 ---
 
-## Bild- und Videorechte auf Instagram und YouTube
+**Bild- und Videorechte auf Instagram und YouTube**
 
 Alle auf den Instagram- und YouTube-Kanälen von **AlpenCamperVan** veröffentlichten Bilder, Fotos und Videodateien sind urheberrechtlich geschützt und Eigentum vom Kanaleigentümer.
 
@@ -56,6 +56,7 @@ E-Mail: [info.alpencampervan@gmail.com](mailto:info.alpencampervan@gmail.com)
 
 Die Nutzung ist nur nach vorheriger Absprache und gegen Entgelt gestattet.
 
+<br>
 
 Bei Bildern Dritter werden die entsprechenden Urheber kenntlich gemacht bzw. die Nutzung erfolgt mit entsprechender Lizenz. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen Hinweis. Derartige Inhalte werden umgehend entfernt.
 
