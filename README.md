@@ -38,12 +38,17 @@ Deutschland
 
 **Haftungsausschluss**
 
-Trotz sorgfältiger inhaltlicher Kontrolle übernehme ich keine Haftung für die Inhalte externer Links.  
-Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich.
+Trotz sorgfältiger inhaltlicher Kontrolle übernehme ich keine Haftung für die Inhalte externer Links.
+Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich. Bei Bekanntwerden von Rechtsverletzungen werden solche Links umgehend entfernt.
 
+Die Inhalte meiner Kanäle wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte übernehme ich jedoch keine Gewähr.
 
-Haftung für externe Links
-Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für die Inhalte externer Websites, auf die durch direkte oder indirekte Verweise („Links“) hingewiesen wird. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich. Zum Zeitpunkt der Verlinkung wurden die externen Inhalte auf mögliche Rechtsverstöße überprüft – rechtswidrige Inhalte waren zum Zeitpunkt der Verlinkung nicht erkennbar. Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Bei Bekanntwerden von Rechtsverletzungen werden derartige Links umgehend entfernt.
+---
+
+**Bildrechte**\
+Die verwendeten Bilder, Grafiken und Fotos auf dieser Website unterliegen dem Urheberrecht. Sofern nicht anders gekennzeichnet, liegen die Bildrechte beim Betreiber der Website. Eine Verwendung ohne ausdrückliche Genehmigung ist nicht gestattet.
+
+Bei Bildern Dritter werden die entsprechenden Urheber kenntlich gemacht bzw. die Nutzung erfolgt mit entsprechender Lizenz. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen Hinweis. Derartige Inhalte werden umgehend entfernt.
 
 ---
 
