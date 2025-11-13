@@ -20,7 +20,7 @@ E-Mail: [info.alpencampervan@gmail.com](mailto:info.alpencampervan@gmail.com)
 
 **Umsatzsteuer-ID**\
 Umsatzsteuer-Identifikationsnummer (USt-IdNr.) gemäß § 27 a Umsatzsteuergesetz:\
-**Folgt noch**
+DE457920340
 
 **Hinweis gemäß § 19 UStG:**\
 Als Kleinunternehmer gemäß § 19 UStG wird aufgrund der Kleinunternehmerregelung keine Umsatzsteuer berechnet und daher nicht auf der Rechnung ausgewiesen. Eine Umsatzsteuer-Identifikationsnummer (USt-IdNr.) ist daher für rein nationale Geschäftsvorgänge nicht erforderlich.
